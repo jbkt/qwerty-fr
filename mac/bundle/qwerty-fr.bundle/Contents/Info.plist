@@ -8,5 +8,16 @@
 	<string>qwerty-fr</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>KLInfo_qwerty-fr</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>com.apple.keyboardlayout.qwerty-fr.qwerty-fr</string>
+		<key>TISIntendedLanguage</key>
+		<string>fr</string>
+	</dict>
 </dict>
 </plist>
